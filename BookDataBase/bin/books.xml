@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns = "http://www.it-academy.by/books_schema"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation = "http://www.it-academy.by/books_schema books_schema.xsd">
+	<book id="1">
+		<title>Book1</title>
+		<pages>345</pages>
+	</book>
+	<book id="2">
+		<title>Book2</title>
+		<pages>218</pages>
+	</book>
+</books>

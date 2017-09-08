@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<periodical_item xmlns = "http://www.it-academy.by/periodicals"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation = "http://www.it-academy.by/periodicals libschema.xsd">
+
+	<magazine id="1">
+		<title>magazine1</title>
+		<pages>50</pages>
+		<price>50</price>
+		<editorName>Editor1</editorName>
+		<periodOfPrint>1</periodOfPrint>
+	</magazine>
+	
+	<newspaper id="2">
+		<title>newspaper1</title>
+		<pages>15</pages>
+		<price>15</price>
+		<editorName>Editor1</editorName>
+		<publisher>Publisher1</publisher>
+	</newspaper>
+	
+	<book id="3">
+		<title>book1</title>
+		<pages>150</pages>
+		<price>100</price>
+		<authorName>Author</authorName>
+		<periodOfPrint>Year</periodOfPrint>
+		<paperFormat>A4</paperFormat>
+		<additionalInfo>Info1</additionalInfo>
+	</book>
+
+
+
+</periodical_item>
